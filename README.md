@@ -5,7 +5,7 @@
 
 
 ### Live
-Check out the demo site [Bloggy](https://clone-aae80.web.app/)
+Check out the demo site [Bloggy](https://bloggy-taupe.vercel.app/)
 
 
 ### Built using:
